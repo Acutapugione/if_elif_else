@@ -13,3 +13,4 @@ elif number_1 < 0 or number_2 < 0:
     print(number_1 ** 2 - number_2 ** 2)
         
 
+safasf
